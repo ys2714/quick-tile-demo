@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monochrome calculator glyph (body + screen + button grid) used as the Quick Settings tile icon -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Fill color is irrelevant: Quick Settings re-tints tile icons to match system state at runtime -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M6,2c-1.1,0 -2,0.9 -2,2v16c0,1.1 0.9,2 2,2h12c1.1,0 2,-0.9 2,-2V4c0,-1.1 -0.9,-2 -2,-2H6zM6,4h12v4H6V4zM7,10h2v2H7v-2zM11,10h2v2h-2v-2zM15,10h2v2h-2v-2zM7,14h2v2H7v-2zM11,14h2v2h-2v-2zM15,14h2v4h-2v-4zM7,18h2v2H7v-2zM11,18h2v2h-2v-2z" />
+</vector>
