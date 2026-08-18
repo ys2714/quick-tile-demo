@@ -1,6 +1,21 @@
 # quick-tile-demo
 used to research on coexist of android quick tile and zebra software
 
+## How to install
+
+please find the latest apk from release page on right side.
+you can install the apk use following ADB command
+
+```bash
+adb install quick-tile-demo-v0.1.apk
+```
+
+## How to run
+
+because this is a TileService, you don't need to run it.
+the quick tile will appear on swipe-down panel from top of the phone screen.
+if the "Calculator" tile now shown or gray out. please reboot your device to make sure the TileService start correctly.
+
 ## Gradle Tasks
 
 ### Release build (`releaseApk`)
