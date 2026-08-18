@@ -10,6 +10,15 @@ you can install the apk use following ADB command
 adb install quick-tile-demo-v0.1.apk
 ```
 
+## How to uninstall
+
+because this is a TileService, you can not found app icon.
+please uninstall the apk use following ADB command
+
+```bash
+adb uninstall com.example.quicktile
+```
+
 ## How to run
 
 because this is a TileService, you don't need to run it.
