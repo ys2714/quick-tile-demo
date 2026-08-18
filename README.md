@@ -1,6 +1,10 @@
 # quick-tile-demo
 used to research on coexist of android quick tile and zebra software
 
+## Preview
+
+https://github.com/user-attachments/assets/67a2d667-f979-4c7e-b355-4163de5f378a
+
 ## How to install
 
 please find the latest apk from release page on right side.
